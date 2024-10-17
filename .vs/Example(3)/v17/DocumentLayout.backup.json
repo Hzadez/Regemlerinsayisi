@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\hzade\\Desktop\\Backend\\Example(3)\\",
+  "WorkspaceRootPath": "C:\\Users\\hzade\\Desktop\\Backend\\Exercise(3)\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2D720ECF-D07E-434D-A3D6-500244D71C63}|Example(3)\\Example(3).csproj|c:\\users\\hzade\\desktop\\backend\\example(3)\\example(3)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2D720ECF-D07E-434D-A3D6-500244D71C63}|Example(3)\\Example(3).csproj|c:\\users\\hzade\\desktop\\backend\\exercise(3)\\example(3)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2D720ECF-D07E-434D-A3D6-500244D71C63}|Example(3)\\Example(3).csproj|solutionrelative:example(3)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,9 +24,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\hzade\\Desktop\\Backend\\Example(3)\\Example(3)\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\hzade\\Desktop\\Backend\\Exercise(3)\\Example(3)\\Program.cs",
               "RelativeDocumentMoniker": "Example(3)\\Program.cs",
-              "ToolTip": "C:\\Users\\hzade\\Desktop\\Backend\\Example(3)\\Example(3)\\Program.cs",
+              "ToolTip": "C:\\Users\\hzade\\Desktop\\Backend\\Exercise(3)\\Example(3)\\Program.cs",
               "RelativeToolTip": "Example(3)\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
